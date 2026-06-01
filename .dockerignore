@@ -1,5 +1,5 @@
-#target/
-.idea/
+target/
 .git/
-.mvn/
+.idea/
 *.iml
+.vscode/
